@@ -1,0 +1,41 @@
+table {
+  text-align: left;
+  border-collapse: collapse;
+}
+
+table th,
+table td {
+  border: 1px solid blueviolet;
+  padding: 10px;
+  min-height: 160px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+#delete {
+  background-color: #d83232;
+  /* Green */
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+#edit {
+  background-color: #3b7f1d;
+  /* Green */
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}

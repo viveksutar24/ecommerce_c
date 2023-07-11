@@ -1,0 +1,5 @@
+ul li a {
+  display: inline-flex;
+  padding: 20px;
+  text-decoration: none;
+}

@@ -1,0 +1,128 @@
+{
+  "seller": [
+    {
+      "name": "Vivek Sutar",
+      "email": "viveksutar@gmail.com",
+      "password": "v123",
+      "id": 1
+    },
+    {
+      "name": "Pradip Chafekanade",
+      "email": "pradipchafekanade@gmail.com",
+      "password": "p123",
+      "id": 2
+    },
+    {
+      "name": "bruce",
+      "password": "bruce@123",
+      "email": "bruce@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "Vivek Sutar",
+      "password": "vv",
+      "email": "vv",
+      "id": 18
+    },
+    {
+      "name": "vivek",
+      "password": "v",
+      "email": "v",
+      "id": 19
+    },
+    {
+      "name": "vivek",
+      "password": "v",
+      "email": "v",
+      "id": 20
+    },
+    {
+      "name": "vivek",
+      "password": "v",
+      "email": "v",
+      "id": 21
+    },
+    {
+      "name": "vivek",
+      "password": "v",
+      "email": "v",
+      "id": 22
+    },
+    {
+      "name": "vivek",
+      "password": "v",
+      "email": "v",
+      "id": 23
+    },
+    {
+      "name": "vinay",
+      "password": "v",
+      "email": "v",
+      "id": 24
+    },
+    {
+      "name": "vivek",
+      "password": "v",
+      "email": "vq",
+      "id": 25
+    },
+    {
+      "name": "vivek",
+      "password": "v",
+      "email": "v",
+      "id": 26
+    }
+  ],
+  "products": [
+    {
+      "name": "iPhone 14 Max",
+      "price": "160000",
+      "color": "Black",
+      "category": "Mobile",
+      "description": "Hello There !!!",
+      "image": "https://media.croma.com/image/upload/v1662703565/Croma%20Assets/Communication/Mobiles/Images/261935_nxd0zn.png",
+      "id": 2
+    },
+    {
+      "name": "Cotton T-Shirt",
+      "price": "899",
+      "color": "White",
+      "category": "Cloths",
+      "description": "Hello There",
+      "image": "https://i.pinimg.com/736x/c1/1d/16/c11d164de692594acf53c9a855093139.jpg",
+      "id": 1
+    },
+    {
+      "name": "Nike",
+      "price": "12000",
+      "category": "Shoes",
+      "color": "Blue",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a576a457-055e-40ff-911d-f148529e97e2/air-jordan-low-se-shoes-KKFsH5.png",
+      "description": "Hello There",
+      "id": 3
+    },
+    {
+      "name": "BOULT AIRBASS",
+      "price": "999",
+      "category": "Headphones",
+      "color": "Black",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQdlVwxWCHooQ4XNgFWZBpl2d0ZGPwW6SM6e-Lvfe7lhyDI2Ne3ZaRmPQFV-qrLHuIvxjTBGV0CxVbAIPXvIvNEZNG55tfs-A",
+      "description": "Hello There",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "vivek",
+      "email": "viveksutar26@gmail.com",
+      "password": "ddd",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "p@gmail.com",
+      "password": "oooo",
+      "id": 2
+    }
+  ]
+}
